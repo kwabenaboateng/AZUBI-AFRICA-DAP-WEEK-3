@@ -14,3 +14,9 @@ Also, the visualization of my data should cover the following areas:
 7. Total connections by month.
 8. Total connections by company.
 9. Total connections by positions.
+
+
+## Author
+FREDRICK KWABENA BOATENG
+
+[FREDRICK KWABENA BOATENG - WEEK 3 INDIVIDUAL PROJECT.zip](https://github.com/kwabenaboateng/AZUBI-AFRICA-DAP-WEEK-3/files/10882120/FREDRICK.KWABENA.BOATENG.-.WEEK.3.INDIVIDUAL.PROJECT.zip)
